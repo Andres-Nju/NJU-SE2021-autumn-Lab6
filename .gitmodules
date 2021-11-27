@@ -76,3 +76,6 @@
 [submodule "Project/191220136-许汤智"]
 	path = Project/191220136-许汤智
 	url = https://github.com/Xutangzhi/AnExplorer
+[submodule "Project/191220152-张城铨"]
+	path = Project/191220152-张城铨
+	url = https://github.com/Andres-Nju/SimpleExplorer-2.3.1.git
